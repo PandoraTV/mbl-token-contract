@@ -7,4 +7,10 @@
 npm install @openzeppelin/contracts@5.4.0
 ```
 
-Deployed Contract (Sepolia Testnet): [0x5FC73FdC8936de4b3d35Ef5450a479019E01a4B5](https://sepolia.etherscan.io/address/0x5FC73FdC8936de4b3d35Ef5450a479019E01a4B5#code)
+Deployed Contract (Ethereum Mainnet): [0x997408C01AAA6396aF806115dAfDebE4fad879Fd](https://etherscan.io/token/0x997408C01AAA6396aF806115dAfDebE4fad879Fd)
+
+## Security Audit
+
+Audited by CertiK — final report published on January 15, 2026. No critical, major, medium, minor, or informational findings; the single finding (MOV-01, Initial Token Distribution) is a centralization note resolved via multi-sig.
+
+- [MBLToken-CertiK-Audit.pdf](MBLToken-CertiK-Audit.pdf)
